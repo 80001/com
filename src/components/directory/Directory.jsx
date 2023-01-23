@@ -34,7 +34,6 @@ const categories = [
 	},
 ]
 
-
 const Directory = () => {
 	return (
 		<div className="directory-container">
