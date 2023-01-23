@@ -34,8 +34,6 @@ const categories = [
 	},
 ]
 
-git config --global user.email "romik.herman@gmail.com"
-  git config --global user.name "80001"
 const Directory = () => {
 	return (
 		<div className="directory-container">
